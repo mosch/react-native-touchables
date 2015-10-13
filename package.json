@@ -1,0 +1,24 @@
+{
+  "name": "react-native-touchables",
+  "version": "1.0.0",
+  "description": "A collection of react native touchables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "touchables",
+    "touch",
+    "feedback",
+    "animation"
+  ],
+  "author": "Moritz Schwoerer",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.12.0"
+  }
+}
